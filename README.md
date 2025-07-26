@@ -18,4 +18,7 @@
 | 6 | 3Sum | Two Pointers | [Leetcode 15](https://leetcode.com/problems/3sum) | ✅ |
 | 7 | First and Last Position in Sorted Array | Binary Search | [Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅ |
 | 8 | Valid Anagram | Strings | [Leetcode 242](https://leetcode.com/problems/valid-anagram/) | ✅ |
+| 9  | Set Matrix Zeroes                                   | Matrix, In-place          | [Leetcode 73](https://leetcode.com/problems/set-matrix-zeroes/)     | ✅     |
+| 10 | Move Zeroes                                         | Arrays, Two Pointers      | [Leetcode 283](https://leetcode.com/problems/move-zeroes/)          | ✅     |
+| 11 | Length of Longest Substring Without Repeating Chars| Sliding Window, HashSet   | [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅     |
 
