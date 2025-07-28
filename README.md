@@ -22,5 +22,7 @@
 | 10 | Move Zeroes                                         | Arrays, Two Pointers      | [Leetcode 283](https://leetcode.com/problems/move-zeroes/)          | ✅     |
 | 11 | Length of Longest Substring Without Repeating Chars| Sliding Window, HashSet   | [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅     |
 | 12 | Group Anagrams | Strings, HashMap | [Leetcode 49](https://leetcode.com/problems/group-anagrams/) | ✅      |
+| 13 | Top K Frequent Elements | HashMap, Heap, Sorting | [Leetcode 347](https://leetcode.com/problems/top-k-frequent-elements/) | ✅      |
+
 
 
